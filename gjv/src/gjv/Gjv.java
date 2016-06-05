@@ -18,6 +18,7 @@ public class Gjv {
         // TODO code application logic here
         System.out.println("dkm");
         System.out.println("thanh oc con cho");
+        System.out.println("cc ne");
     }
     
 }
